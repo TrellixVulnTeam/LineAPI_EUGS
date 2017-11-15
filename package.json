@@ -1,0 +1,19 @@
+{
+  "name": "lineapi",
+  "version": "1.0.0",
+  "description": "KIT's Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ChhatraChhorm",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "firebase-admin": "^5.4.1",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.12.1",
+    "pug": "^2.0.0-rc.4"
+  }
+}
